@@ -10,4 +10,3 @@
 NameNoQuality/NameNoQuality is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-b5128fd8bd0fbcb642b2cc21647a3352bfeea66030abe6221084b41db2cc1c71  copyright.shtml[ISTA_LAB_CERTIFICATION_procedure_May2020.pdf](https://github.com/user-attachments/files/17331652/ISTA_LAB_CERTIFICATION_procedure_May2020.pdf)
